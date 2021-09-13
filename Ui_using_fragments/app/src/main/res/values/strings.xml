@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ui_using_fragments</string>
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Provider</item>
+        <item>Intents and Intent Filters</item>
+    </string-array>
+    <string-array name="description">
+        <item>The Activity class is a crucial component of an Android app, and the way activities are launched and put together is a fundamental part of the platform\'s application model.</item>
+        <item>A Service is an application component that can perform long-running operations in the background. It does not provide a user interface.</item>
+        <item>A content provider manages access to a central repository of data. A provider is part of an Android application, which often provides its own UI for working with the data. However, content providers are primarily intended to be used by other applications, which access the provider using a provider client object.</item>
+        <item>An Intent is a messaging object you can use to request an action from another app component. Although intents facilitate communication between components in several ways</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
